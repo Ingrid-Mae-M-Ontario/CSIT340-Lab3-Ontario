@@ -11,29 +11,23 @@ function ProjectsSection() {
           title="About Me in React"
           description="My first React project, rebuilt from a plain HTML page."
           tech="React · Tailwind CSS"
-          link="https://github.com/juandelacruz/CSIT340-Lab1-DelaCruz"
+          link="https://github.com/ingridmaeontario/CSIT340-Lab1-Ontario"
         />
         <ProjectCard
           year="2025"
-          title="Canteen Queue"
-          description="A page that shows how long the canteen line is so students can decide when to go."
-          tech="HTML · CSS · JavaScript"
-          link="https://github.com/juandelacruz/canteen-queue"
+          title="ArtSync"
+          description="A project management app designed for artists to log, track, and share progress on artworks."
+          tech="Kotlin · Android Studio · MySQL"
+          link="https://github.com/ingridmaeontario/artsync"
         />
         <ProjectCard
           year="2025"
-          title="Clinic Records"
-          description="A desktop app for our database class that keeps visit records for a small clinic."
-          tech="Java · MySQL"
-          link="https://github.com/juandelacruz/clinic-records"
+          title="Tuneify_Music_Player_Capstone"
+          description="A Java OOP2 capstone project that lets users play and manage local audio files with a simple, user-friendly interface, showcasing core object-oriented programming concepts."
+          tech="Java · kotlin "
+          link="https://github.com/ingridmaeontario/tuneify"
         />
-        <ProjectCard
-          year="2024"
-          title="Org Event Page"
-          description="A one-page site for our org's freshman orientation, with the schedule and venue."
-          tech="HTML · Bootstrap"
-          link="https://github.com/juandelacruz/org-event-page"
-        />
+       
       </div>
     </section>
   )

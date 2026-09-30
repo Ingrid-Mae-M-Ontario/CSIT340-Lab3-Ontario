@@ -12,16 +12,11 @@ function ExperienceSection() {
           place="Cebu Institute of Technology – University"
           description="Taking up web development, databases, and systems analysis."
         />
-        <TimelineItem
-          period="2025"
-          title="Student Assistant"
-          place="CCS Computer Laboratory"
-          description="Set up lab machines and helped students with software installs."
-        />
+        
         <TimelineItem
           period="2022 – 2024"
-          title="Senior High School, ICT Strand"
-          place="Talisay City National High School"
+          title="Senior High School, STEM Strand"
+          place="Cebu Institute of Technology – University"
           description="Built my first web page and got hooked."
         />
       </ol>

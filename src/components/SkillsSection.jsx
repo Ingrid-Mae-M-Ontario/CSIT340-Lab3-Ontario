@@ -13,6 +13,8 @@ function SkillsSection() {
             <SkillTag name="CSS" />
             <SkillTag name="JavaScript" />
             <SkillTag name="Java" />
+            <SkillTag name="Python" />
+            <SkillTag name="Kotlin" />
           </div>
         </div>
         <div>
@@ -30,6 +32,8 @@ function SkillsSection() {
             <SkillTag name="VS Code" />
             <SkillTag name="MySQL" />
             <SkillTag name="Figma" />
+            <SkillTag name="Android Studio" />
+            
           </div>
         </div>
       </div>
